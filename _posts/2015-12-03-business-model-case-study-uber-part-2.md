@@ -41,8 +41,8 @@ Uber generates revenue by taking a transaction fee per ride that occurs through 
 ##Cost Structure of Production: OPEX v CAPEX
 
 There are two means of production:
-*drivers and vehicles; and
-*real-time location data of both riders and drivers.
+* drivers and vehicles; and
+* real-time location data of both riders and drivers.
 
 For simplicity sake I’ll ignore non-operational costs for the moment but in any case are fixed relative to output i.e. fare rides. Uber also has operations teams in each city and country they operate in which again can be treated as a fixed cost relative to fare rides.
 
