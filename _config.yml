@@ -1,5 +1,5 @@
 # Site settings
-title:       Pixyll
+title:       David Ni
 email:       david@davidni.com
 author:      David Ni
 description: "David Ni's Blog"
@@ -8,14 +8,14 @@ url:         "http://davidni.com"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_analytics:
+google_analytics: UA-62017858-2
 google_verification:
 
 # Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
+animated:             true
+show_related_posts:   true
+show_post_footers:    true
+show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -29,12 +29,12 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: jominione
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: ThePoliEcon
 google_plus_id:
-linkedin_username:
+linkedin_username: david-ni-48a58b74
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -60,6 +60,6 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     7
 sass:
   compressed: true
