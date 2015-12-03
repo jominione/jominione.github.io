@@ -41,6 +41,7 @@ Uber generates revenue by taking a transaction fee per ride that occurs through 
 ##Cost Structure of Production: OPEX v CAPEX
 
 There are two means of production:
+
 * drivers and vehicles; and
 * real-time location data of both riders and drivers.
 
