@@ -76,30 +76,30 @@ By the way, Risk is a really good game to learn about the interaction between st
 
 ##Putting it all together
 
-*Technology change means that can provide greater safety and availability without regulation that previously wasn’t possible.
+* Technology change means that can provide greater safety and availability without regulation that previously wasn’t possible.
 
-*The underlying product is a step-change superior to the existing product (incumbent taxi services) in the market.
+* The underlying product is a step-change superior to the existing product (incumbent taxi services) in the market.
 
-*Discovered that demand is elastic and can increase driver income by cutting fares and expanding rider demand while simultaneously expanding driver supply. Riders want availability which requires driver supply. Drivers want income which comes through better utilisation which is driven by more rider demand (as allocation problem is now solved increasing driver utilisation due to GPS and smartphone adoption).
+* Discovered that demand is elastic and can increase driver income by cutting fares and expanding rider demand while simultaneously expanding driver supply. Riders want availability which requires driver supply. Drivers want income which comes through better utilisation which is driven by more rider demand (as allocation problem is now solved increasing driver utilisation due to GPS and smartphone adoption).
 
-*Under status quo need to get licence and other regulatory requirements, controlled driver supply implication is cannot expand market and drop fare prices, slow velocity to scale etc.
+* Under status quo need to get licence and other regulatory requirements, controlled driver supply implication is cannot expand market and drop fare prices, slow velocity to scale etc.
 
-*If Uber play by rules and only focus on using tech to more efficiently match rider to driver, the impact is limited. Impact only comes from expanding market (from existing taxi service to car replacement, public transport replacement, and goods delivery) which cannot happen without unlimited entry of drivers. Go to platform model. Implications are under platform unlimited driver supply, asset-lite means velocity of scaling faster, land-grab and winner-take-all dynamics.
+* If Uber play by rules and only focus on using tech to more efficiently match rider to driver, the impact is limited. Impact only comes from expanding market (from existing taxi service to car replacement, public transport replacement, and goods delivery) which cannot happen without unlimited entry of drivers. Go to platform model. Implications are under platform unlimited driver supply, asset-lite means velocity of scaling faster, land-grab and winner-take-all dynamics.
 
-*For better or worse Uber has followed the ask forgiveness, not permission (or more accurately don’t ask forgiveness or permission) mantra.
+* For better or worse Uber has followed the ask forgiveness, not permission (or more accurately don’t ask forgiveness or permission) mantra.
 
-*Land-grab/Winner-take-all dynamics means need to focus on acquisition which require capital which Uber doesn’t have sufficient of as they are a startup with insufficient organic cashflow to fund this.
+* Land-grab/Winner-take-all dynamics means need to focus on acquisition which require capital which Uber doesn’t have sufficient of as they are a startup with insufficient organic cashflow to fund this.
 
-*VC provide funding in assets that:
-Have massive market opportunity;
-Can grow quickly to seize this opportunity; and
-Acquired market share is defendable.
+* VC provide funding in assets that:
+  1. Have massive market opportunity;
+  2. Can grow quickly to seize this opportunity; and
+  3. Acquired market share is defendable.
 
 VCs don’t care about the balance sheet (as startups don’t have balance sheet anyway). Uber ticks these boxes hence VC and businesses like Uber are made for each other.
 
-*Uber is expanding the market far greater than what that the taxi service ever was while at the same time taking all the share of the market from the incumbent taxi services as well.
+* Uber is expanding the market far greater than what that the taxi service ever was while at the same time taking all the share of the market from the incumbent taxi services as well.
 
-*As or if they expand market into car ownership, public transport, and goods delivery market they will want to have more control over the user experience at the driver level which would require them to move away from a platform-centric/asset-lite model to a direct owner-seller/capex-heavy model. You would expect they would have IPOed and have a strong balance sheet that will allow them to fund this by the time they make this transition.
+* As or if they expand market into car ownership, public transport, and goods delivery market they will want to have more control over the user experience at the driver level which would require them to move away from a platform-centric/asset-lite model to a direct owner-seller/capex-heavy model. You would expect they would have IPOed and have a strong balance sheet that will allow them to fund this by the time they make this transition.
 
 
 ##Reading list
